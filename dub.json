@@ -6,8 +6,8 @@
     "targetType": "sourceLibrary",
     "dependencies":
     {
-        "dests" : "~>0.2.2",
-        "desmath" : "~>0.2.1",
+        "dests" : "~>0.2.5",
+        "desmath" : "~>0.2.3",
         "desarch" : "~>0.2.0"
     }
 }
