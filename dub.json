@@ -7,7 +7,7 @@
     "dependencies":
     {
         "dests" : "~>0.2.5",
-        "desmath" : "~>0.2.3",
+        "desmath" : "~>0.2.4",
         "desarch" : "~>0.2.0"
     }
 }
