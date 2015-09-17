@@ -1,0 +1,8 @@
+name "desspace"
+description "D Extended Set 3D View Utils"
+authors "Oleg Butko (deviator)"
+license "MIT"
+targetType "sourceLibrary"
+dependency "dests" version="~>0.2.5"
+dependency "desmath" version="~>0.2.4"
+dependency "desarch" version="~>0.2.0"
